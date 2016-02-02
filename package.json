@@ -1,0 +1,45 @@
+{
+  "name": "rbc-twigify",
+  "version": "0.0.1",
+  "description": "Browserify transform for pre-compiled Twig.js templates",
+  "keywords": [
+    "template",
+    "browserify",
+    "browserify-transform",
+    "transform",
+    "twig",
+    "twigjs",
+    "twig.js"
+  ],
+  "homepage": "https://github.com/",
+  "author": {
+    "name": "RBC-frontend",
+    "email": ""
+  },
+  "bugs": {
+    "url": "https://github.com/"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/"
+  },
+  "dependencies": {
+    "html-minifier": "^0.6.9",
+    "through2": "^0.6.3",
+    "twig": "^0.8.7"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.10"
+  },
+  "scripts": {},
+  "readme": "",
+  "readmeFilename": "README.md",
+  "_id": "rbc-twigify@0.0.1",
+  "dist": {
+    "shasum": ""
+  },
+  "_from": "rbc-twigify@~0.0.1",
+  "_resolved": ""
+}
