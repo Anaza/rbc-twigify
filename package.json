@@ -11,7 +11,7 @@
     "twigjs",
     "twig.js"
   ],
-  "homepage": "https://github.com/",
+  "homepage": "https://https://github.com/Anaza/rbc-twigify",
   "author": {
     "name": "RBC-frontend",
     "email": ""
@@ -22,7 +22,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/"
+    "url": "git://github.com/Anaza/rbc-twigify"
   },
   "dependencies": {
     "html-minifier": "^0.6.9",
